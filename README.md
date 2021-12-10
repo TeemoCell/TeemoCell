@@ -30,3 +30,5 @@ I'm a self-taught passionate FrontEnd & BackEnd developer from Germany
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=TeemoCell&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&theme=onedark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TeemoCell&layout=compact&hide_border=true&theme=onedark)
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=TeemoCell.TeemoCell)
