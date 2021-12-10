@@ -18,13 +18,13 @@ I'm a self-taught passionate FrontEnd & BackEnd developer from Germany
 
 **Languages and Tools:**
 
-<img height="20" src="./images/css-3.png">
-<img height="20" src="./images/javascript.png">
-<img height="20" src="./images/typescript.png">
-<img height="20" src="./images/nodejs.png">
-<img height="20" src="./images/html.png">
-<img height="20" src="./images/php.png">
-<img height="20" src="./images/Laravel.svg">
+<code><img height="20" src="./images/css-3.png"></code>
+<code><img height="20" src="./images/javascript.png"></code>
+<code><img height="20" src="./images/typescript.png"></code>
+<code><img height="20" src="./images/nodejs.png"></code>
+<code><img height="20" src="./images/html.png"></code>
+<code><img height="20" src="./images/php.png"></code>
+<code><img height="20" src="./images/Laravel.svg"></code>
 
 <br>
 
